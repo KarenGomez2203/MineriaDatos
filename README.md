@@ -16,7 +16,7 @@
 
 * [Kahoot](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Resultados%20Kahoot-Metr%C3%ADcas%20de%20Evaluaci%C3%B3n.pdf)
 
-* [Mapa Mental 2](https://github.com/KarenGomez2203/Mineria-de-datos/blob/main/MapaMental_2_1808039.pdf)
+* [Mapa Mental 2](https://github.com/KarenGomez2203/MineriaDatos/blob/main/Archivos/MapaMental_2_1808039.pdf)
 
 ## Fase III
 
